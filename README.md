@@ -4,6 +4,7 @@
 This is a small project that was supposed to slowly grow the total view hours of my youtube channel. However, YouTube detects selenium and doesn't allow me to login, so I figured it probably doesn't count the views as well. Regardless, the code will open a browser and switch to different links for a desired amount of time.
 
 YouTube Channel - Mit&Girt - https://www.youtube.com/channel/UCkuS0aydLFKHCV8jmGFEovg
+
 Twitch - twitch.tv/mitandgrit
 
 ## Requirements
@@ -13,8 +14,7 @@ pip install selenium
 
 ```
 2. Chromedriver
-Install chromedriver from this link - https://chromedriver.chromium.org/downloads
-Copy chromedriver to the directory
+Install chromedriver-https://chromedriver.chromium.org/downloads
 
 ## Getting Started
 1. Clone the repository
