@@ -5,7 +5,7 @@ This is a small project that was supposed to slowly grow the total view hours of
 
 YouTube Channel - Mit&Girt - https://www.youtube.com/channel/UCkuS0aydLFKHCV8jmGFEovg
 
-Twitch - twitch.tv/mitandgrit
+Twitch - https://www.twitch.tv/mitandgrit
 
 ## Requirements
 1. Selenium
