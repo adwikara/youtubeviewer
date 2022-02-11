@@ -6,7 +6,9 @@ This is a small project that was supposed to slowly grow the total view hours of
 *At the end, I realized that the views didn't really ended up counting :D
 
 MitandGrit
+
 [Youtube](https://www.youtube.com/channel/UCkuS0aydLFKHCV8jmGFEovg)
+
 [Twitch](https://www.twitch.tv/mitandgrit)
 
 ## Requirements
