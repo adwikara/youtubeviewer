@@ -1,11 +1,13 @@
 # Youtube Viewer Bot
 
 ## Overview
-This is a small project that was supposed to slowly grow the total view hours of my youtube channel. However, YouTube detects selenium and doesn't allow me to login, so I figured it probably doesn't count the views as well. Regardless, the code will open a browser and switch to different links for a desired amount of time.
+This is a small project that was supposed to slowly grow the total view hours of my Dota 2 youtube channel. However, YouTube detects selenium and doesn't allow me to login, so I figured it probably doesn't count the views as well. Regardless, the code will open a browser and switch to different links for a desired amount of time.
 
-YouTube Channel - Mit&Girt - https://www.youtube.com/channel/UCkuS0aydLFKHCV8jmGFEovg
+*At the end, I realized that the views didn't really ended up counting :D
 
-Twitch - https://www.twitch.tv/mitandgrit
+MitandGrit
+[Youtube](https://www.youtube.com/channel/UCkuS0aydLFKHCV8jmGFEovg)
+[Twitch](https://www.twitch.tv/mitandgrit)
 
 ## Requirements
 1. Selenium
